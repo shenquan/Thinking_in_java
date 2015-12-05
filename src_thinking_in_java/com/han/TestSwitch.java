@@ -9,7 +9,7 @@ public class TestSwitch {
 //        int c;
         switch (t){
             case 1:System.out.println(1);
-            case 2:System.out.println(2);
+            case 2:System.out.println(2);break;
             case 3:System.out.println(3);
             default:System.out.println("default");
 
